@@ -1,0 +1,3 @@
+/Users/abhishek_iyer/Documents/DSA/FIrstProject/cmake-build-debug/CMakeFiles/FIrstProject.dir
+/Users/abhishek_iyer/Documents/DSA/FIrstProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/abhishek_iyer/Documents/DSA/FIrstProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
